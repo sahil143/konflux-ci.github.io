@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkonflux_website=globalThis.webpackChunkkonflux_website||[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to the New Home of Konflux CI","permalink":"/konflux-ci.github.io/blog/welcome-to-new-home","unlisted":false,"date":"2026-03-16T00:00:00.000Z"}]}')}}]);

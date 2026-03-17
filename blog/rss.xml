@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Konflux Blog</title>
+        <link>https://sahil143.github.io/konflux-ci.github.io/blog</link>
+        <description>Konflux Blog</description>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome to the New Home of Konflux CI]]></title>
+            <link>https://sahil143.github.io/konflux-ci.github.io/blog/welcome-to-new-home</link>
+            <guid>https://sahil143.github.io/konflux-ci.github.io/blog/welcome-to-new-home</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're excited to introduce the new home for Konflux CI! This website is now your central hub for everything Konflux — documentation, architecture details, getting started guides, and community resources.]]></description>
+            <content:encoded><![CDATA[<p>We're excited to introduce the new home for Konflux CI! This website is now your central hub for everything Konflux — documentation, architecture details, getting started guides, and community resources.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-fresh-start">A Fresh Start<a href="https://sahil143.github.io/konflux-ci.github.io/blog/welcome-to-new-home#a-fresh-start" class="hash-link" aria-label="Direct link to A Fresh Start" title="Direct link to A Fresh Start" translate="no">​</a></h2>
+<p>After careful planning and development, we've launched this new website to provide a better experience for the Konflux community. Whether you're a first-time visitor or a long-time contributor, you'll find everything you need in one place.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-youll-find-here">What You'll Find Here<a href="https://sahil143.github.io/konflux-ci.github.io/blog/welcome-to-new-home#what-youll-find-here" class="hash-link" aria-label="Direct link to What You'll Find Here" title="Direct link to What You'll Find Here" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="documentation">Documentation<a href="https://sahil143.github.io/konflux-ci.github.io/blog/welcome-to-new-home#documentation" class="hash-link" aria-label="Direct link to Documentation" title="Direct link to Documentation" translate="no">​</a></h3>
+<p>Our comprehensive documentation covers everything from initial setup to advanced configurations. Head over to the <a class="" href="https://sahil143.github.io/konflux-ci.github.io/docs/intro">documentation</a> to explore guides, API references, and best practices.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="architecture--design">Architecture &amp; Design<a href="https://sahil143.github.io/konflux-ci.github.io/blog/welcome-to-new-home#architecture--design" class="hash-link" aria-label="Direct link to Architecture &amp; Design" title="Direct link to Architecture &amp; Design" translate="no">​</a></h3>
+<p>Want to understand how Konflux works under the hood? We've included detailed architecture information and design decisions that power the platform.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="getting-started">Getting Started<a href="https://sahil143.github.io/konflux-ci.github.io/blog/welcome-to-new-home#getting-started" class="hash-link" aria-label="Direct link to Getting Started" title="Direct link to Getting Started" translate="no">​</a></h3>
+<p>New to Konflux? Check out our <a class="" href="https://sahil143.github.io/konflux-ci.github.io/getting-started">Getting Started guide</a> for a step-by-step walkthrough that will have you up and running quickly.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="community--contributions">Community &amp; Contributions<a href="https://sahil143.github.io/konflux-ci.github.io/blog/welcome-to-new-home#community--contributions" class="hash-link" aria-label="Direct link to Community &amp; Contributions" title="Direct link to Community &amp; Contributions" translate="no">​</a></h3>
+<p>Konflux is an open source project, and we welcome contributions from the community. Stay tuned for more resources on how to get involved.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="whats-next">What's Next<a href="https://sahil143.github.io/konflux-ci.github.io/blog/welcome-to-new-home#whats-next" class="hash-link" aria-label="Direct link to What's Next" title="Direct link to What's Next" translate="no">​</a></h2>
+<p>This is just the beginning. We'll be regularly updating this site with new content, tutorials, and resources. Keep an eye on this blog for announcements, updates, and insights from the Konflux team.</p>
+<p>We're glad you're here. Welcome home!</p>
+<p>— The Konflux Team</p>]]></content:encoded>
+            <category>announcement</category>
+            <category>website</category>
+        </item>
+    </channel>
+</rss>

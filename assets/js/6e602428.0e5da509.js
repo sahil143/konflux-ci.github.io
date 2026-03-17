@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkonflux_website=globalThis.webpackChunkkonflux_website||[]).push([[370],{4238(e){e.exports=JSON.parse('{"tags":[{"label":"announcement","permalink":"/konflux-ci.github.io/blog/tags/announcement","count":1},{"label":"website","permalink":"/konflux-ci.github.io/blog/tags/website","description":"Website tag description","count":1}]}')}}]);

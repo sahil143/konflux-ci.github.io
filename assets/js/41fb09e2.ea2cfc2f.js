@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkonflux_website=globalThis.webpackChunkkonflux_website||[]).push([[830],{9909(e){e.exports=JSON.parse('{"metadata":{"permalink":"/konflux-ci.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
