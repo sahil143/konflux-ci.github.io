@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkkonflux_website=globalThis.webpackChunkkonflux_website||[]).push([[903],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/konflux-ci.github.io/blog","blogTitle":"Blog","authorsListPath":"/konflux-ci.github.io/blog/authors"}')}}]);
