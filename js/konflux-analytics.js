@@ -11,7 +11,7 @@
  *   __GA_MEASUREMENT_ID__     → process.env.GA_MEASUREMENT_ID
  *   __AMPLITUDE_API_KEY__     → process.env.AMPLITUDE_API_KEY
  *   __PRIVACY_POLICY_URL__    → process.env.PRIVACY_POLICY_URL
- *   true                 → (NODE_ENV !== 'production')
+ *   __DEBUG__                 → (NODE_ENV !== 'production')
  *
  * Usage in both sites:
  *   <script src="/js/konflux-analytics.js" type="module"></script>
@@ -21,9 +21,9 @@
   "use strict";
 
   // Configuration (baked in at build time)
-  const gaId = "__GA_MEASUREMENT_ID__";
-  const amplitudeKey = "__AMPLITUDE_API_KEY__";
-  const privacyUrl = "__PRIVACY_POLICY_URL__";
+  const gaId = "G-XXXXXXXX";
+  const amplitudeKey = "your_amplitude_api_key_here";
+  const privacyUrl = "https://www.yourdomain.com/privacy-policy";
   const debug = true;
 
   // Debug logging
